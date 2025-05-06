@@ -1,0 +1,3 @@
+import generate_random_player_stats
+
+print(generate_random_player_stats.random_stats("player_name"))
